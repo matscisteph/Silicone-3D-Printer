@@ -19,4 +19,3 @@
 # Todo
 * Hardware setup
 * Print settings
-* Startup script
