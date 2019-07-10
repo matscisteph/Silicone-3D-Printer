@@ -3,6 +3,9 @@ Documentation and custom firmware for the silicone printer created for [mLab](ht
 
 For additional information about other research works related to this project, visit the following references.
 
+Zero-Support 3D Printing of Thermoset Silicone Via Simultaneous Control of Both Reaction Kinetics and Transient Rheology
+https://www.researchgate.net/publication/332458874_Zero-Support_3D_Printing_of_Thermoset_Silicone_Via_Simultaneous_Control_of_Both_Reaction_Kinetics_and_Transient_Rheology
+
 Direct 3D printing of silicone elastomer soft robots and their performance comparison with molded counterparts
 https://ieeexplore.ieee.org/document/8404935
 
